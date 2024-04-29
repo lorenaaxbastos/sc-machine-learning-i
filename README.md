@@ -28,7 +28,7 @@ A apresentação deve ocorrer no último dia de aula (29/04). A equipe terá at�
 Em essência, o Santander Coders é um programa de bolsas de estudo em tecnologia oferecido pela Ada Tech em colaboração com o Santander. O programa é estruturado em quatro trilhas distintas: Ciência de Dados, Engenharia de Dados, Frontend e Backend. Entre os mais de 50.000 candidatos, apenas 300 indivíduos foram selecionados, com 75 participantes alocados para cada trilha.
 
 ```
-"Estou imensamente grato por estar entre os 75 indivíduos escolhidos para trilha de Ciência de Dados ❤"
+Sou imensamente grata por estar entre os 75 indivíduos escolhidos para trilha de Ciência de Dados ❤
 ```
 
 O programa tem duração de 5 meses, apresentando mais de 324 horas de conteúdo síncrono.
